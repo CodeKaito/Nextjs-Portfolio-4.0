@@ -1,6 +1,4 @@
-![portfolio1](https://user-images.githubusercontent.com/57111980/211199162-4fa0295a-65cd-4fd2-9ccf-4e326a0833b6.gif)
 
-![portfolio2](https://user-images.githubusercontent.com/57111980/211199175-d8bd0d14-896b-4cee-8fa8-94faa768fa1c.gif)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +9,6 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://hashirshoaeb.github.io/portfolio"> hashirshoaeb.github.io/portfolio</a>
     <br />
     <br />
     <a href="https://codekaito-nextjs-portfolio1.netlify.app/">About Me</a>
@@ -22,6 +19,9 @@
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
+![portfolio1](https://user-images.githubusercontent.com/57111980/211199162-4fa0295a-65cd-4fd2-9ccf-4e326a0833b6.gif)
+
+![portfolio2](https://user-images.githubusercontent.com/57111980/211199175-d8bd0d14-896b-4cee-8fa8-94faa768fa1c.gif)
 
 <!-- TABLE OF CONTENTS -->
 <details>
