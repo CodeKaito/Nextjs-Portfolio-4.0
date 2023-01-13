@@ -8,7 +8,7 @@ const handleDone = () => {
 
 const Main = () => {
   return (
-    <div className='w-full h-screen text-center'>
+    <div className='w-full h-screen text-center' id='home'>
         <div className='max-w-[1240px] w-full h-full max-auto p-2 flex justify-center items-center'>
             <div>
                 <p className='uppercase text-sm tracking-widest text-gray-600'>
@@ -31,18 +31,26 @@ const Main = () => {
                         </span>
                     </p>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaLinkedinIn />
-                    </div>
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaInstagram />
-                    </div>
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaGithub />
-                    </div>
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
-                        <FaTwitter />
-                    </div>
+                    <a href='https://www.linkedin.com/in/jerome-de-cinco-4b4904189/' target='_blank' rel='noreferrer'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
+                            <FaLinkedinIn />
+                        </div>
+                    </a>
+                    <a href='https://www.instagram.com/carljeromee/' target='_blank' rel='noreferrer'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
+                            <FaInstagram />
+                        </div>
+                    </a>
+                    <a href='https://github.com/CodeKaito' target='_blank' rel='noreferrer'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
+                            <FaGithub />
+                        </div>
+                    </a>
+                    <a href='https://twitter.com/carljeromeoff' target='_blank' rel='noreferrer'>
+                        <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
+                            <FaTwitter />
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
